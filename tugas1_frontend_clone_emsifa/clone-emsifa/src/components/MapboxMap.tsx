@@ -12,6 +12,13 @@ const MapboxMap: React.FC<MapboxMapProps> = ({ latitude, longitude }) => {
 
   useEffect(() => {
     mapboxgl.accessToken = "pk.eyJ1IjoiZnpoYWxhMiIsImEiOiJjbHFqMXdxa2QxeWNmMmxtZHI4Y2wwbmFjIn0.lvZy5M-ZcQ7HVuJmVFIBqw"
+    if (!latitude && !longitude) {
+      return (
+        <div>
+          <h1>Location can't be found!</h1>
+        </div>
+      )
+    }
 
     if (!map.current) {
       map.current = new mapboxgl.Map({

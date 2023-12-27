@@ -92,7 +92,7 @@ return (
             <p>No regencies available</p>
         )}
 
-        {showKecamatan && selectedRegency.length > 0 ?
+        {selectedRegency.length > 0 ?
             <Kecamatan kecamatanId={selectedRegency} setGlobalDistrict={setGlobalDistrict} />
         : null}
     </div>
