@@ -55,7 +55,7 @@ export default new class TodoServices {
                 return { message: "Province not found!" }
             }
 
-             await this.TodoRepository.delete(id)
+            await this.TodoRepository.delete(id)
             return {
                 message: "Success delete a province!",
                 data: findId
