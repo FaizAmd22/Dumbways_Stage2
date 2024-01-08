@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nama": "Sugeng",
+        "alamat": "Bandung",
+        "gender": "Laki-Laki",
+        "username": "sugeng@gmail.com",
+        "password": "sugeng123",
+        "paslon": "Ahmad"
+    },
+    {
+        "id": 2,
+        "nama": "Haris",
+        "alamat": "Garut",
+        "gender": "Laki-Laki",
+        "username": "haris@gmail.com",
+        "password": "haris123",
+        "paslon": "Faizhal"
+    },
+    {
+        "id": 3,
+        "nama": "Mei",
+        "alamat": "Sukabumi",
+        "gender": "Perempuan",
+        "username": "mei@gmail.com",
+        "password": "mei123",
+        "paslon": "Siddiq"
+    },
+    {
+        "id": 4,
+        "nama": "I Made",
+        "alamat": "Bali",
+        "gender": "Laki-Laki",
+        "username": "made@gmail.com",
+        "password": "made123",
+        "paslon": "Ahmad"
+    },
+    {
+        "id": 5,
+        "nama": "Yuni",
+        "alamat": "Cirebon",
+        "gender": "Perempuan",
+        "username": "yuni@gmail.com",
+        "password": "yuni123",
+        "paslon": "Faizhal"
+    },
+    {
+        "id": 6,
+        "nama": "Roy",
+        "alamat": "Depok",
+        "gender": "Laki-Laki",
+        "username": "roy@gmail.com",
+        "password": "roy123",
+        "paslon": "Ahmad"
+    },
+    {
+        "id": 7,
+        "nama": "Izhal",
+        "alamat": "Wonogiri",
+        "gender": "Laki-Laki",
+        "username": "izhal@gmail.com",
+        "password": "izhal123",
+        "paslon": "Siddiq"
+    },
+    {
+        "id": 8,
+        "nama": "Dudeman",
+        "alamat": "Semarang",
+        "gender": "Laki-Laki",
+        "username": "dudeman@gmail.com",
+        "password": "dudeman123",
+        "paslon": "Ahmad"
+    }
+]

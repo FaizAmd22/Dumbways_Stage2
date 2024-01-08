@@ -1,0 +1,32 @@
+[
+    {
+        "noUrut": 1,
+        "image": "https://i.pinimg.com/564x/6b/fb/e6/6bfbe6832fe1e55f1a4e8b90c3ffdf95.jpg",
+        "name": "Faizhal",
+        "visi": ["Coding", "Makan", "Tidur"],
+        "koalisi": ["Partai Kesatuan Indonesia", "Partai Sejahtera Keadilan", "Partai Loremipsun"],
+        "color": "#ff4747",
+        "value": 45,
+        "address": "Bandung"
+    },
+    {
+        "noUrut": "2",
+        "image": "https://i.pinimg.com/564x/8d/db/a3/8ddba390976f9c09e6f8ce32665efb25.jpg",
+        "name": "Ahmad",
+        "visi": ["Coding", "Makan", "Tidur"],
+        "koalisi": ["Partai Kesatuan Indonesia", "Partai Sejahtera Keadilan", "Partai Loremipsun"],
+        "color": "#36A2EB",
+        "value": 60,
+        "address": "Majalengka"
+    },
+    {
+        "noUrut": "3",
+        "image": "https://i.pinimg.com/564x/83/f5/e5/83f5e5adebc8026599e303e052e041bf.jpg",
+        "name": "Siddiq",
+        "visi": ["Coding", "Makan", "Tidur"],
+        "koalisi": ["Partai Kesatuan Indonesia", "Partai Sejahtera Keadilan", "Partai Loremipsun"],
+        "color": "#FFCE56",
+        "value": 10,
+        "address": "Bogor"
+    }
+]
